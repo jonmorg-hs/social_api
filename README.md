@@ -21,7 +21,7 @@ This is a noSQL database using MongoDB that allows for API endpoints to interact
 
 # Demo
 
-[![demo](https://i9.ytimg.com/vi/lwjgw3MPlys/mq2.jpg?sqp=CIip6IsG&rs=AOn4CLCcg19DMDcMp4702pCj9BFatdAsnw)](https://youtu.be/lwjgw3MPlys)
+[![demo](https://i9.ytimg.com/vi/VXfB-AJLplg/mq2.jpg?sqp=CJTsv44G&rs=AOn4CLCAdlvE3vt8yDUgy9hTzDqHnMbBTQ)](https://youtu.be/VXfB-AJLplg)
 
 # Installation
 
