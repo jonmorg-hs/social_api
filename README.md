@@ -25,7 +25,11 @@ This is a noSQL database using MongoDB that allows for API endpoints to interact
 
 # Installation
 
+Install nodejs and dependencies (npm inquirer) the download code
+
 # Usage
+
+Using nodejs, run node server.js and use Insomnia to replicate the requests as per the demo video
 
 # License
 
